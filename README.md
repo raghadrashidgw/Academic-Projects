@@ -4,4 +4,5 @@
 ---
 
 ## Sample Project Poster  
+![](Laser Poster (1).jpg)
 ![](astronomy.png)  
