@@ -1,7 +1,7 @@
 # 🎓 Academic Projects  
 
 ### A collection of my previous academic projects in **Physics** and **STEM-related sciences**.  
-These projects highlight research, experimentation, and data analysis. 
+### These projects highlight research, experimentation, and data analysis. 
 ---
 
 ## 📌 Sample Project Poster  
